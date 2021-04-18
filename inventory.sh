@@ -1,8 +1,8 @@
 
 #!bin/bash
 #Description:systen inventory
-#Author: san
-echo -e "\nnumber of cpus\n"
+#Author: Sandrine Gebah
+echo -e "\nNumber of cpus\n"
 nproc
 
 echo -e "\nfirst digit of the kernel version\n"
