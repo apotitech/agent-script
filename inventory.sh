@@ -1,7 +1,7 @@
 
 #!bin/bash
 #Description:systen inventory
-#Author: san
+#Author: sandrine the GREAT IT GURU
 echo -e "\nnumber of cpus\n"
 nproc
 
